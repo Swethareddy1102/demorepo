@@ -12,6 +12,7 @@
             --accent: #00d4ff;
             --light: #f6f9fc;
             --dark: #1a1a1a;
+
             --gray: #7a7a7a;
             --success: #28a745;
         }
@@ -826,7 +827,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection 2023</h1>
+            <h1>Winter Collection 2024</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
